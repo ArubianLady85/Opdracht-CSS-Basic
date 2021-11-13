@@ -1,0 +1,52 @@
+body{
+    background-color: lightskyblue;
+}
+
+header{
+    font-size: 35px;
+    color: rebeccapurple;   
+    margin: auto;
+    text-align: center;
+}
+
+li{
+    color: darkblue;
+    font-size: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+
+.box-1 img{
+    border: 10px yellow solid;
+}
+.box-1 h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+    color: darkorange;
+}
+
+.box-1{
+    background-color: #333;
+    color: #fff;
+    font-size: 20px;
+    font-family: "Garamond";
+    border: 10px greenyellow dotted;
+    padding: 20px;
+}
+
+.box-2{
+    background-color: lightyellow;
+    color:tomato;
+    font-size: 18px;
+    font-family: "brush script";
+    border: 10px red double;
+    padding: 5px;    
+}
+
+.box-2 h2{
+    font-family:'lobster', cursive;
+    text-decoration: underline;
+}
